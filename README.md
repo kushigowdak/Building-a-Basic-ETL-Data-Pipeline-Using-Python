@@ -82,7 +82,7 @@ The main ETL logic is implemented in `ETL_Pipeline.py`.
 This project is for educational purposes.
 
 ## Author
-- [Kushal U]
+- Kushal U
 
 ---
 Feel free to modify this README to fit your specific project details or add more sections as needed.
