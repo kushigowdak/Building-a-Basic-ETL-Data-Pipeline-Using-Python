@@ -1,7 +1,5 @@
 # Building-a-Basic-ETL-Data-Pipeline-Using-Python
 
-# Building a Basic ETL Data Pipeline Using Python
-
 ## Overview
 This project demonstrates how to build a basic ETL (Extract, Transform, Load) data pipeline using Python. The pipeline processes healthcare-related data, performs data analysis, and applies machine learning techniques to derive insights from patient and doctor information.
 
